@@ -1,4 +1,4 @@
-#Steps followed
+## Steps followed to setup this template
 
 ```
 react-native init projectName
